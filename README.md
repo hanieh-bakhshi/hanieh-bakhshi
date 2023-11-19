@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
 </a>
 <a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=12&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=20&theme=dracula" />
 </a>
 <!--
 **hanieh-bakhshi/hanieh-bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
