@@ -1,9 +1,9 @@
 <h1  align="center">Hi I'm Hanieh 👋</h1>
 <a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=20&theme=radical&langs_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=20&theme=tokyonightl&langs_private=true" />
 </a>
 <!--
 **hanieh-bakhshi/hanieh-bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
