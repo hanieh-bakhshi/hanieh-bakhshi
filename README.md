@@ -1,4 +1,4 @@
-<h1  align="center">Hi I'm Hanieh 👋</h1>
+<h1  align="center">Hi there 👋</h1>
 <a href="https://github.com/hanieh-bakhshi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </a>
