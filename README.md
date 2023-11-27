@@ -16,6 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=hanieh-bakhshi&theme=tokyonight&hide_border=false)
+
 
 <!--
 **hanieh-bakhshi/hanieh-bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
