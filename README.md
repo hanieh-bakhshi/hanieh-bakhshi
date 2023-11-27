@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=100&theme=tokyonight"/>
 </a>
 
-<br/>
+<hr>
 
 ![Static Badge](https://img.shields.io/badge/PHP-%900074.svg?:badgeContent?style=for-the-badge&logo=PHP&logoColor=white&color=purple)
 ![Static Badge](https://img.shields.io/badge/MySQL-%900074.svg?:badgeContent?style=for-the-badge&logo=MySQL&logoColor=white&color=purple)
@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
 
-<br/>
+<hr>
 
 [![](https://visitcount.itsvg.in/api?id=hanieh-bakhshi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
