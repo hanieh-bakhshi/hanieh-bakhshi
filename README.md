@@ -9,12 +9,20 @@
 
 <hr>
 
-![Static Badge](https://img.shields.io/badge/PHP-%900074.svg?:badgeContent?style=for-the-badge&logo=PHP&logoColor=white&color=purple)
+ ### Languages
+ ![Static Badge](https://img.shields.io/badge/PHP-%900074.svg?:badgeContent?style=for-the-badge&logo=PHP&logoColor=white&color=purple)
+ ![Static Badge](https://img.shields.io/badge/JavaScript-%900074.svg?:badgeContent?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow)
+ ![Static Badge](https://img.shields.io/badge/HTML5-%900074.svg?:badgeContent?style=for-the-badge&logo=HTML5&logoColor=white&color=red)
+ ![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
+ 
+ ### Framework
+ ![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
+ 
+ ### Database
 ![Static Badge](https://img.shields.io/badge/MySQL-%900074.svg?:badgeContent?style=for-the-badge&logo=MySQL&logoColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/JavaScript-%900074.svg?:badgeContent?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow)
-![Static Badge](https://img.shields.io/badge/HTML5-%900074.svg?:badgeContent?style=for-the-badge&logo=HTML5&logoColor=white&color=red)
-![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
+
+
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanieh-bakhshi&theme=tokyonight&hide_border=false)
 
