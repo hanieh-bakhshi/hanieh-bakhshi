@@ -16,7 +16,6 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
 
-
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=hanieh-bakhshi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
