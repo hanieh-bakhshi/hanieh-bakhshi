@@ -10,6 +10,7 @@
  
  #### Framework
  ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
+  ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Laravel)
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
