@@ -1,7 +1,6 @@
 <h1  align="center">Hi there 👋</h1>
-<p  align="center">welcome to my profile ☕</p>
 
-## Tech Stack
+### ‣ Tech Stack
  #### Languages
  ![PHP](https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP)
  ![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
@@ -19,7 +18,9 @@
 ![cotorol](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
 ![cotorol](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
-##  GitHub Stats 📊
+<hr>
+
+### ‣ GitHub Stats 📊
 <a href="https://github.com/hanieh-bakhshi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 </a>
@@ -27,7 +28,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=100&theme=tokyonight"/>
 </a>
 
-## GitHub Streaks 🔥
+<hr>
+
+### ‣ GitHub Streaks 🔥
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanieh-bakhshi&theme=tokyonight&hide_border=false)
 
 <!--
