@@ -9,7 +9,7 @@
  
  #### Framework
  ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
-  ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=Laravel) ![Laravel](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
+  ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
