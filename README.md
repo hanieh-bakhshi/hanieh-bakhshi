@@ -10,16 +10,16 @@
 <hr>
 
  ### Languages
- ![Static Badge](https://img.shields.io/badge/PHP-%900074.svg?:badgeContent?style=for-the-badge&logo=PHP&logoColor=white&color=purple)
- ![Static Badge](https://img.shields.io/badge/JavaScript-%900074.svg?:badgeContent?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow)
- ![Static Badge](https://img.shields.io/badge/HTML5-%900074.svg?:badgeContent?style=for-the-badge&logo=HTML5&logoColor=white&color=red)
- ![Static Badge](https://img.shields.io/badge/CSS3-%900074.svg?:badgeContent?style=for-the-badge&logo=CSS3&logoColor=white&color=blue)
+ ![Static Badge](https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP)
+ ![Static Badge](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+ ![Static Badge](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
+ ![Static Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
  
  ### Framework
- ![Static Badge](https://img.shields.io/badge/Bootstrap-%900074.svg?:badgeContent?style=for-the-badge&logo=Bootstrap&logoColor=white&color=purple)
+ ![Static Badge](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
  
  ### Database
-![Static Badge](https://img.shields.io/badge/MySQL-%900074.svg?:badgeContent?style=for-the-badge&logo=MySQL&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 
 
 
