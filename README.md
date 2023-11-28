@@ -15,7 +15,7 @@
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 
-## Version Control
+#### Version Control
 ![cotorol](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
 ![cotorol](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
