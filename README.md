@@ -1,5 +1,11 @@
 <h1  align="center">Hi there 👋</h1>
 
+<p align="center">
+ <img src="https://i.pinimg.com/564x/7b/3a/03/7b3a03ed1086dd10f0d0ce035ba14851.jpg">
+</p>
+
+
+
 ### ‣ Tech Stack
  #### Languages
  ![PHP](https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP)
