@@ -24,9 +24,13 @@
 <a href="https://github.com/hanieh-bakhshi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 </a>
-<a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=100&theme=tokyonight"/>
-</a>
+
+<hr>
+
+### ‣ Language Stats 📊
+ <a href="https://github.com/unchase">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&theme=tokyonight&hide_border=true&hide=css,html">
+  </a>
 
 <hr>
 
@@ -34,6 +38,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanieh-bakhshi&theme=tokyonight&hide_border=false)
 
 <!--
+<a href="https://github.com/hanieh-bakhshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=100&theme=tokyonight"/>
+</a>
 **hanieh-bakhshi/hanieh-bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
