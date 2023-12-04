@@ -29,7 +29,7 @@
 
 ### ‣ Language Stats 📊
  <a href="https://github.com/unchase">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&theme=tokyonight&hide_border=true&hide=css,html">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&theme=tokyonight&hide=css,html">
   </a>
 
 <hr>
