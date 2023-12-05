@@ -15,7 +15,7 @@
  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
  
- #### Framework
+ #### Library
  ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
   ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
  
