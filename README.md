@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=9324D6&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
+
 <p align="center">
  <img src="https://i.pinimg.com/564x/7b/3a/03/7b3a03ed1086dd10f0d0ce035ba14851.jpg">
 </p>
@@ -16,8 +17,11 @@
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
  
  #### Library
- ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
   ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
+  
+ #### Framework 
+  ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
+
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
