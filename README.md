@@ -10,13 +10,14 @@
 
 
 ### ‣ Tech Stack
+
+
  #### Languages
  ![PHP](https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=PHP)
  ![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
  ![node.js](https://img.shields.io/badge/-node.js-000?style=for-the-badge&logo=node.js)
  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
-  ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
  
  #### Library
   ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
@@ -24,7 +25,10 @@
  #### Framework 
   ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
   ![express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
+  ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
 
+ #### Package Manager
+   ![npm](https://img.shields.io/badge/nmp-000?style=for-the-badge&logo=npm)
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
