@@ -26,6 +26,7 @@
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+![monogoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
 
 #### Version Control
 ![cotorol](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
