@@ -28,7 +28,7 @@
   ![express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
 
  #### Package Manager
-   ![npm](https://img.shields.io/badge/nmp-000?style=for-the-badge&logo=npm)
+   ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
  
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
