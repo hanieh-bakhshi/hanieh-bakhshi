@@ -49,11 +49,11 @@
 <hr>
 
 ### ‣ GitHub Stats 📊
-<a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanieh-bakhshi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<a href="https://github.com/im-hanieh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-hanieh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 </a>
-<a href="https://github.com/hanieh-bakhshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanieh-bakhshi&layout=compact&langs_count=100&theme=tokyonight&hide=css,html""/>
+<a href="https://github.com/im-hanieh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanieh&layout=compact&langs_count=100&theme=tokyonight&hide=css,html""/>
 </a>
 
 <!---
@@ -66,10 +66,10 @@
 <hr>
 
 ### ‣ GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=hanieh-bakhshi&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-hanieh&theme=tokyonight&hide_border=false)
 
 <!--
-**hanieh-bakhshi/hanieh-bakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**im-hanieh/im-hanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
