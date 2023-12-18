@@ -39,12 +39,12 @@
 ![cotorol](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
 #### social media
-<a src="https://hashnode.com/@Hanieh"> ![hashnode](https://img.shields.io/badge/hashnode-000?style=for-the-badge&logo=hashnode) </a>
-<a src="https://dev.to/hanieh"> ![dev.to](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to) </a>
-<a src="[https://dev.to/hanieh](https://community.codenewbie.org/)"> ![codenewbie](https://img.shields.io/badge/codenewbie-000?style=for-the-badge&logo=codenewbie) </a>
-<a src="https://app.daily.dev/im_hanieh"> ![daily.dev](https://img.shields.io/badge/daily.dev-000?style=for-the-badge&logo=daily.dev) </a>
-<a src="https://www.linkedin.com/in/hanieh-bakhshi-5169672a2"> ![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin) </a>
-<a src="https://stackoverflow.com/users/18108378/hanieh"> ![stackoverflow](https://img.shields.io/badge/stackoverflow-000?style=for-the-badge&logo=stackoverflow) </a>
+<a href="https://hashnode.com/@Hanieh"> ![hashnode](https://img.shields.iobadge/hashnode-000?style=for-the-badge&logo=hashnode) </a>
+<a href="https://dev.to/hanieh"> ![dev.to](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to) </a>
+<a href="[https://dev.to/hanieh](https://community.codenewbie.org/)"> ![codenewbie](https://img.shields.io/badge/codenewbie-000?style=for-the-badge&logo=codenewbie) </a>
+<a href="https://app.daily.dev/im_hanieh"> ![daily.dev](https://img.shields.io/badge/daily.dev-000?style=for-the-badge&logo=daily.dev) </a>
+<a href="https://www.linkedin.com/in/hanieh-bakhshi-5169672a2"> ![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin) </a>
+<a href="https://stackoverflow.com/users/18108378/hanieh"> ![stackoverflow](https://img.shields.io/badge/stackoverflow-000?style=for-the-badge&logo=stackoverflow) </a>
 
 <hr>
 
