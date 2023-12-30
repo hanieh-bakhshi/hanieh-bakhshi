@@ -20,12 +20,11 @@
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
  ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
  
- #### Library
+ #### Library &  Framework 
   ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
-  
- #### Framework 
   ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
   ![express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
+  
 
  #### Package Manager
    ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
