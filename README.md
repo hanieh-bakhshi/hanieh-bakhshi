@@ -37,7 +37,7 @@
 ![cotorol](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
 ![cotorol](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
-#### social media
+#### socials
 <a href="https://hashnode.com/@Hanieh"> ![hashnode](https://img.shields.io/badge/hashnode-000?style=for-the-badge&logo=hashnode) </a>
 <a href="https://dev.to/hanieh"> ![dev.to](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to) </a>
 <a href="https://community.codenewbie.org/hanieh"> ![codenewbie](https://img.shields.io/badge/codenewbie-000?style=for-the-badge&logo=codenewbie) </a>
