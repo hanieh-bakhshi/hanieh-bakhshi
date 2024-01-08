@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img src="https://i.pinimg.com/564x/0c/79/e9/0c79e9967826ecb605138ba79f65357a.jpg">
+ <img src="https://i.pinimg.com/564x/88/b9/eb/88b9eb2c3bb51c7e07339136f67e625b.jpg">
 </p>
 
 
