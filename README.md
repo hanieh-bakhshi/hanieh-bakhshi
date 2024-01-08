@@ -19,40 +19,39 @@
  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
  ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
- 
- #### Library &  Framework 
-  ![jqueryl](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
+
+ #### Library &  Framework
+  ![jquery](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
   ![BootStrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
   ![express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
-  
+
 
  #### Package Manager
    ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
- 
+
  #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
-![monogoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
+![mongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
 
 #### Version Control
-![cotorol](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
-![cotorol](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![control](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
+![control](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
 #### socials
-<a href="https://hashnode.com/@Hanieh"> ![hashnode](https://img.shields.io/badge/hashnode-000?style=for-the-badge&logo=hashnode) </a>
 <a href="https://dev.to/hanieh"> ![dev.to](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to) </a>
-<a href="https://community.codenewbie.org/hanieh"> ![codenewbie](https://img.shields.io/badge/codenewbie-000?style=for-the-badge&logo=codenewbie) </a>
+<a href="https://community.codenewbie.org/hanieh"> ![CodeNewbie](https://img.shields.io/badge/codenewbie-000?style=for-the-badge&logo=codenewbie) </a>
 <a href="https://app.daily.dev/im_hanieh"> ![daily.dev](https://img.shields.io/badge/daily.dev-000?style=for-the-badge&logo=daily.dev) </a>
 <a href="https://www.linkedin.com/in/hanieh-bakhshi-5169672a2"> ![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin) </a>
-<a href="https://stackoverflow.com/users/18108378/hanieh"> ![stackoverflow](https://img.shields.io/badge/stackoverflow-000?style=for-the-badge&logo=stackoverflow) </a>
+<a href="https://stackoverflow.com/users/18108378/hanieh"> ![StackOverflow](https://img.shields.io/badge/stackoverflow-000?style=for-the-badge&logo=stackoverflow) </a>
 
 <hr>
 
 ### ‣ GitHub Stats 📊
 <a href="https://github.com/im-hanieh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-hanieh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-hanieh&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
 </a>
 <a href="https://github.com/im-hanieh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanieh&layout=compact&langs_count=100&theme=tokyonight&hide=css,html""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanieh&layout=compact&langs_count=100&theme=radical&hide=css,html""/>
 </a>
 
 <!---
@@ -65,7 +64,7 @@
 <hr>
 
 ### ‣ GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=im-hanieh&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-hanieh&theme=radical&hide_border=false)
 
 <!--
 **im-hanieh/im-hanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
